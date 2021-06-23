@@ -10,9 +10,9 @@ namespace ConsoleApp1
             Console.WriteLine("Addig a new branch");
             Console.WriteLine("merging using cmd prompt....");
 Console.WriteLine("in local");
-=======
+
             Console.WriteLine("in remote");
->>>>>>> aae1095514038ec1866de090bb8740854a412b79
+
         }
     }
 }
