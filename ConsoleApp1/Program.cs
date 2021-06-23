@@ -8,7 +8,7 @@ namespace ConsoleApp1
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("Addig a new branch");
-            Console.WriteLine("merging....");
+            Console.WriteLine("merging using cmd prompt....");
         }
     }
 }
